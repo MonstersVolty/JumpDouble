@@ -1,0 +1,8 @@
+name: JumpDouble
+version: '1.0.0'
+main: fr.mrvolty.jumpdouble.Main
+api-version: '1.20'
+commands:
+  doublejump:
+    aliases: dj
+    description: Este es el comando utilizado para activar/desactivar el modo DoubleJump.

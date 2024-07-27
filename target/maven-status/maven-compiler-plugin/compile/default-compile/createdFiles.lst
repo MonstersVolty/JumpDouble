@@ -1,0 +1,4 @@
+fr\mrvolty\jumpdouble\managers\Registration.class
+fr\mrvolty\jumpdouble\Main.class
+fr\mrvolty\jumpdouble\commands\JumpControl.class
+fr\mrvolty\jumpdouble\listeners\DoubleJump.class
